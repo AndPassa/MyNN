@@ -1,0 +1,2 @@
+# MyNN
+Rete Neurale 
